@@ -148,8 +148,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "keramiek en glas&nbsp;",
-          "text": "Werken met de handen, werken als ambacht of als kunstenaar. werken met zowel glas als keramiek.",
+          "title": "ceramix and glass&nbsp;",
+          "text": "Werken met de handen, werken als abaccht f als kunstenaar. werken met zowel glas als keramiek.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
         },
         {
@@ -221,44 +221,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000"
-            },
-            ".mbr-section-lead": {
-              "color": "#9c9a9a"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-2",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#f28281",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "Rietje Creve",
-          "text": "t.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
-        },
-        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
@@ -266,7 +228,7 @@
           "_name": "gallery3",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -364,7 +326,7 @@
             "filter": false,
             "bgColor": "#f28281",
             "filterBgColor": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": true
           },
           "_anchor": "gallery3-5",
