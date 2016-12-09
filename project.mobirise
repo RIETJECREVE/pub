@@ -336,6 +336,26 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-0311-2000x1500-66-2000x1500-98.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-0311-2000x1500-66.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0148-2000x1125-33-2000x1125-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0148-2000x1125-33.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0150-2000x1125-77-2000x1125-61.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0150-2000x1125-77.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
