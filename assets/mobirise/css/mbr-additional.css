@@ -90,7 +90,7 @@ h6,
   background-color: #7e9b9f !important;
 }
 .bg-warning {
-  background-color: #faaf40 !important;
+  background-color: #eb6b56 !important;
 }
 .bg-danger {
   background-color: #f28281 !important;
@@ -176,8 +176,8 @@ h6,
   border-color: #e1a90f !important;
 }
 .btn-warning {
-  background-color: #faaf40;
-  border-color: #faaf40;
+  background-color: #eb6b56;
+  border-color: #eb6b56;
   color: #ffffff;
 }
 .btn-warning:hover,
@@ -186,14 +186,14 @@ h6,
 .btn-warning:active,
 .btn-warning.active {
   color: #ffffff;
-  background-color: #e78d06;
-  border-color: #e78d06;
+  background-color: #db351a;
+  border-color: #db351a;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #e78d06 !important;
-  border-color: #e78d06 !important;
+  background-color: #db351a !important;
+  border-color: #db351a !important;
 }
 .btn-danger {
   background-color: #f28281;
@@ -297,8 +297,8 @@ h6,
 }
 .btn-warning-outline {
   background: none;
-  border-color: #cf7d05;
-  color: #cf7d05;
+  border-color: #c43017;
+  color: #c43017;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
@@ -306,14 +306,14 @@ h6,
 .btn-warning-outline:active,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #faaf40;
-  border-color: #faaf40;
+  background-color: #eb6b56;
+  border-color: #eb6b56;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #faaf40 !important;
-  border-color: #faaf40 !important;
+  background-color: #eb6b56 !important;
+  border-color: #eb6b56 !important;
 }
 .btn-danger-outline {
   background: none;
@@ -345,7 +345,7 @@ h6,
   color: #7e9b9f !important;
 }
 .text-warning {
-  color: #faaf40 !important;
+  color: #eb6b56 !important;
 }
 .text-danger {
   color: #f28281 !important;
@@ -357,7 +357,7 @@ h6,
   background-color: #7e9b9f;
 }
 .alert-warning {
-  background-color: #faaf40;
+  background-color: #eb6b56;
 }
 .alert-danger {
   background-color: #f28281;
@@ -480,4 +480,10 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
+}
+#header1-1 .btn {
+  font-size: 30px;
+}
+#header1-1 .mbr-section-title {
+  color: #faaf40;
 }

@@ -10,7 +10,7 @@
         "secondaryColor": "#bfcecb",
         "successColor": "#f3c649",
         "infoColor": "#7e9b9f",
-        "warningColor": "#eb6b56",
+        "warningColor": "#faaf40",
         "dangerColor": "#f28281",
         "titleFont": "Indie Flower",
         "subtitleFont": "Lora",
@@ -24,7 +24,7 @@
     "uniqCompNum": 6,
     "versionPublish": "3.9.2",
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "publishPath": "file:///C:/Users/Rietje/Desktop/pub"
   },
   "pages": {
     "index.html": {
@@ -148,17 +148,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Keramiek en glas &nbsp;",
-          "text": "Mijn opleiding bestaat uit werken met klei en glas leren blazen en draaien &nbsp;als de techniek maar als kunstenaar uit de school komen. Mijn werken hebben vaak een connectie met de natuur, omdat daar mijn thuis is.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">keramiek</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://www.luca-arts.be/keuzetraject/keramiek-glaskunst\" data-toolbar=\"-mbrBtnMove\">glas</a>",
-          "_styles": {
-            ".btn": {
-              "font-size": "30px"
-            },
-            ".mbr-section-title": {
-              "color": "#faaf40"
-            }
-          }
+          "title": "ceramix and glass&nbsp;",
+          "text": "Werken met de handen, werken als abaccht f als kunstenaar. werken met zowel glas als keramiek.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
         },
         {
           "_name": "footer1",
@@ -187,7 +179,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#c0a375",
+            "bgColor": "#f28281",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -224,9 +216,9 @@
               "size": 0
             }
           },
-          "title": "Een bodem van glas uit de Doelse polder",
-          "text": "Met opgespoten zand &nbsp;maak ik &nbsp; &nbsp;glas. De Doelse polder zal moeten verdwijnen zo maak ik een souvenier van mijn thuis. het helder groene glas is bekomen door het vele ijzer dat in de bodem zit.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header1-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
+          "title": "Een bodem van glas uit de polder",
+          "text": "Potjes met zelfgemaakt glas uit een polder die moet verdwijnen.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "gallery1",
@@ -245,7 +237,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-0002-2000x1125-25-2000x1125-12.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-0002-2000x1125-25.jpg",
-                "caption": "lampwork : boom &nbsp;",
+                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -305,7 +297,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-0311-2000x1500-66-2000x1500-98.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-0311-2000x1500-66.jpg",
-                "caption": "Tglasgieten thema: natuur &nbsp;schors&nbsp;",
+                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -315,7 +307,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-0148-2000x1125-33-2000x1125-1.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-0148-2000x1125-33.jpg",
-                "caption": "padeverre&nbsp;",
+                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -326,43 +318,13 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-0150-2000x1125-77-2000x1125-61.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-0150-2000x1125-77.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0213-2000x1125-60-2000x1125-32.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-0213-2000x1125-60.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0212-2000x1125-36-2000x1125-83.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-0212-2000x1125-36.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-0224-2000x1125-56-2000x1125-66.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-0224-2000x1125-56.jpg",
-                "caption": "Type caption here",
                 "active": true
               }
             ],
             "spacing": 1,
-            "showText": true,
+            "showText": false,
             "filter": false,
-            "bgColor": "#c0a375",
+            "bgColor": "#f28281",
             "filterBgColor": true,
             "fullWidth": false,
             "showBullets": true
