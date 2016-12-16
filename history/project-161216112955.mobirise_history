@@ -6,6 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
+        "primaryColor": "#41a85f",
         "secondaryColor": "#bfcecb",
         "successColor": "#f3c649",
         "infoColor": "#7e9b9f",
