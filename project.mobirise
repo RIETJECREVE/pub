@@ -23,7 +23,7 @@
     "versionFirst": "3.9.2",
     "uniqCompNum": 6,
     "versionPublish": "3.9.2",
-    "publishType": "local",
+    "publishType": "github",
     "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
