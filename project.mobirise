@@ -23,7 +23,7 @@
     "versionFirst": "3.9.2",
     "uniqCompNum": 6,
     "versionPublish": "3.9.2",
-    "publishType": "local",
+    "publishType": "github",
     "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
@@ -128,6 +128,14 @@
         {
           "_name": "header1",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".btn": {
+              "font-size": "30px"
+            },
+            ".mbr-section-title": {
+              "color": "#faaf40"
+            }
+          },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
@@ -150,15 +158,7 @@
           },
           "title": "Keramiek en glas &nbsp;",
           "text": "Mijn opleiding bestaat uit werken met klei en glas leren blazen en draaien &nbsp;als de techniek maar als kunstenaar uit de school komen. Mijn werken hebben vaak een connectie met de natuur, omdat daar mijn thuis is.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">keramiek</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://www.luca-arts.be/keuzetraject/keramiek-glaskunst\" data-toolbar=\"-mbrBtnMove\">glas</a>",
-          "_styles": {
-            ".btn": {
-              "font-size": "30px"
-            },
-            ".mbr-section-title": {
-              "color": "#faaf40"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">keramiek</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://www.luca-arts.be/keuzetraject/keramiek-glaskunst\" data-toolbar=\"-mbrBtnMove\">glas</a>"
         },
         {
           "_name": "footer1",
