@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "My Site",
+    "name": "keramiek en glas ",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,17 +21,20 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 4,
+    "uniqCompNum": 5,
     "versionPublish": "3.9.2",
     "publishType": "github",
-    "publishPath": "file:///C:/Users/Rietje/Desktop/pub"
+    "publishPath": "file:///C:/Users/Rietje/Desktop/pub",
+    "favicon": "",
+    "noImageResize": "true",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Rietje Creve ",
+        "meta_descr": "Keramiek en glas ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -128,6 +131,20 @@
         {
           "_name": "header1",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#475577",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "color": "#efefef",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "30px",
+              "text-align": "center"
+            }
+          },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
@@ -150,21 +167,7 @@
           },
           "title": "Keramiek en glas&nbsp;",
           "text": "<br>Mijn werken hebben meestal linken met de natuur en mijn thuisfront. De dingen die ik maak hebben een verborgen verhaal.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
-            },
-            ".mbr-section-lead": {
-              "color": "#efefef",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "30px",
-              "text-align": "center"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
         },
         {
           "_name": "footer1",
@@ -188,6 +191,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header2-0",
           "_params": {
             "parallax": true,
@@ -232,15 +243,7 @@
           },
           "title": "Glas gemaakt met zand&nbsp;",
           "text": "Het gles bevat zand van uit een Doelse polder. Een polder die zal moeten verdwijnen.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H3": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -413,6 +416,38 @@
             "showBullets": true
           },
           "_anchor": "gallery1-3",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-0055-4000x3000-44.jpg",
+                "image": "@PROJECT_PATH@/assets/images/IMG_0055.JPG",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-4",
           "articleLayout": false,
           "allItem": "All"
         }
