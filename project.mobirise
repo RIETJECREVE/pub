@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-11-22_1532",
+    "name": "rietje creve",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -12,7 +12,11 @@
     },
     "versionFirst": "4.4.1",
     "uniqCompNum": 5,
-    "versionPublish": "4.4.1"
+    "versionPublish": "4.4.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
