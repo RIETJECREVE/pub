@@ -417,7 +417,7 @@ h6,
   opacity: 0 !important;
 }
 #header1-1 .mbr-section-title {
-  color: #eb6b56;
+  color: #7e9b9f;
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #header1-1 .mbr-section-lead {
@@ -432,6 +432,9 @@ h6,
 #header2-0 H3 {
   text-align: left;
   color: #eb6b56;
+}
+#header2-0 .mbr-section-title {
+  color: #7e9b9f;
 }
 #contacts2-g STRONG {
   color: #eb6b56;
