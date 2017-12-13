@@ -1,9 +1,9 @@
 {
   "settings": {
-    "name": "rietje ",
+    "name": "my site NL ",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 48,
+    "uniqCompNum": 53,
     "versionPublish": "4.4.1",
     "theme": {
       "name": "mobirise4",
@@ -36,15 +36,22 @@
     },
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
-    "cookiesAlert": ""
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-99005571-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-99005571-1');\r\n</script>\r\n",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://rietjecreve.github.io/pub",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "hoofdpagina ",
-        "meta_descr": "tonen van onderzoek ",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -771,7 +778,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "kopen",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -958,7 +965,7 @@
       "settings": {
         "meta_descr": "Studiereis naar Carcassone, ruque leren maken ",
         "title": "carcasonne ",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1273,7 +1280,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1736,7 +1743,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "artistiek werk",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1833,6 +1840,7 @@
           "_name": "gallery3",
           "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\"\n         group=\"Sliders & Gallery\"\n         plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\"></div>\n    </div>\n\n</section>",
           "_cid": "qDjpBT3SIG",
+          "_anchor": "gallery3-1b",
           "_protectedParams": [
             "text_all",
             "gallery__filtersTextStyle",
@@ -1943,8 +1951,7 @@
                 "active": false
               }
             ]
-          },
-          "_anchor": "gallery3-1b"
+          }
         }
       ]
     }
