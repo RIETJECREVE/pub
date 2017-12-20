@@ -1257,6 +1257,10 @@ body {
 .cid-qElXNeTDMi {
   background-image: url("../../../assets/images/img-251-1024x575.jpg");
 }
+.cid-qElXNeTDMi .mbr-text,
+.cid-qElXNeTDMi .mbr-section-btn {
+  text-align: left;
+}
 .cid-qBIBVqdp5D {
   background-image: url("../../../assets/images/img-251-1024x575.jpg");
 }
